@@ -29,6 +29,6 @@
 
 <p align="center">
   <a href="https://UCerts.io/">
-    <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/I1QVuHL.png">
+    <img alt="UCerts.io" title="UCerts.io" src="[Imgur](https://imgur.com/PeEIAda)">
   </a>
 </p>
