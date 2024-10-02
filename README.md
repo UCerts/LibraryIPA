@@ -3,7 +3,7 @@
   <strong>Professional Apple certificate solution</strong>
 </p>
 <p align="center">
-  <strong>Clone apps on iOS without Jailbreak</em></strong>
+  <strong>_Clone apps on iOS without Jailbreak_</strong>
 </p>
 <p align="center">
   <a href="https://UCerts.io/">
