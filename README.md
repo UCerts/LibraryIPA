@@ -32,8 +32,8 @@
     <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/PeEIAda.png">
   </a>
 </p>
-## Table of Contents
 
+<h2 align="left"><strong>Table of Contents<strong></h2>
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
