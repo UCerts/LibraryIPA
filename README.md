@@ -33,7 +33,9 @@
   </a>
 </p>
 
-<h2 align="left"><strong>Table of Contents<strong></h2>
+<p align="left">
+Table of Contents
+</p>
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
