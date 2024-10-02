@@ -32,3 +32,13 @@
     <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/PeEIAda.png">
   </a>
 </p>
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
