@@ -1,6 +1,10 @@
 <h1 align="center">UCerts.io</h1>
-<h2 align="center">Professional Apple certificate solution</h2>
-<h2 align="center">Clone apps on iOS without Jailbreak</h2>
+<p align="center">
+  <strong>Professional Apple certificate solution</strong>
+</p>
+<p align="center">
+  <strong>Clone apps on iOS without Jailbreak</strong>
+</p>
 
 <p align="center">
   <!-- Nút đầu tiên: Experience now -->
