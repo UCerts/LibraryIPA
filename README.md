@@ -1,7 +1,7 @@
 <h1 align="center"> UCerts.io </h1> <br>
 <p align="center">
   <a href="https://UCerts.io/">
-    <img alt="UCerts.io" title="UCerts.io" src="https://ucerts.io/public/icons/navbar_icon.png" width="450">
+    <img alt="UCerts.io" title="UCerts.io" src="https://ucerts.io/public/icons/navbar_icon.png" width="256">
   </a>
 </p>
 
