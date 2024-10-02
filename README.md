@@ -1,4 +1,18 @@
-<h1 align="center"> UCerts.io </h1> <br>
+<h1 align="center">UCerts.io</h1>
+<h2 align="center">Professional Apple certificate solution</h2>
+<h2 align="center">Clone apps on iOS without Jailbreak</h2>
+
+<div style="text-align: center;">
+  <a href="#" style="background-color: black; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 16px;">Experience now</a>
+  
+  <a href="https://www.youtube.com/your-video-link" style="border: 2px solid black; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 16px; color: black; display: inline-flex; align-items: center;">
+    <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="YouTube" style="width: 24px; height: 24px; margin-right: 8px;">
+    Watch tutorial video
+  </a>
+  
+  <a href="https://your-custom-link.com" style="background-color: #1E90FF; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-size: 16px;">IPA Library Free</a>
+</div>
+
 <p align="center">
   <a href="https://UCerts.io/">
     <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/UWMqrXm.png" width="256">
@@ -21,6 +35,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -55,15 +70,15 @@ View repository and user information, control your notifications and even manage
 
 A few of the things you can do with GitPoint:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+- View user activity feed
+- Communicate on your issue and pull request conversations
+- Close or lock issues
+- Apply labels and assignees
+- Review and merge pull requests
+- Create new issues
+- Star, watch and fork repositories
+- Control your unread and participating notifications
+- Easily search for any user or repository
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
@@ -89,7 +104,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 - Clone or download the repo
 - `yarn` to install dependencies
 - `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
+- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
 - `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
 
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
