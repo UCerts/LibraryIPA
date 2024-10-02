@@ -1,9 +1,9 @@
-<h1 align="center">UCerts.io</h1>
+<h1 align="center"><strong>UCerts.io<strong></h1>
 <p align="center">
   <strong>Professional Apple certificate solution</strong>
 </p>
 <p align="center">
-  <strong>*Clone apps on iOS without Jailbreak*</strong>
+  <strong>Clone apps on iOS without Jailbreak</strong>
 </p>
 <p align="center">
   <a href="https://UCerts.io/">
