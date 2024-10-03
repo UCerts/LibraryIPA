@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://UCerts.io/">
-    <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/UWMqrXm.png" width="128">
+    <img alt="UCerts.io" title="UCerts.io" src="https://i.imgur.com/7mGEgBB.png" width="128">
   </a>
 </p>
 <p align="center">
